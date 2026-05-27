@@ -4,6 +4,7 @@ obj/
 dist/
 build/
 target/
+*.exe
 
 # Python
 __pycache__/
@@ -23,4 +24,3 @@ node_modules/
 .vscode/
 .DS_Store
 Thumbs.db
-
