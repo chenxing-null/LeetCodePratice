@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+dist/
+build/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Java
+*.class
+
+# Node.js
+node_modules/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
